@@ -1,0 +1,13 @@
+C:\Users\16627\source\repos\SubmarineMinefield\SubmarineMinefield\bin\Debug\netcoreapp3.1\SubmarineMinefield.exe
+C:\Users\16627\source\repos\SubmarineMinefield\SubmarineMinefield\bin\Debug\netcoreapp3.1\SubmarineMinefield.deps.json
+C:\Users\16627\source\repos\SubmarineMinefield\SubmarineMinefield\bin\Debug\netcoreapp3.1\SubmarineMinefield.runtimeconfig.json
+C:\Users\16627\source\repos\SubmarineMinefield\SubmarineMinefield\bin\Debug\netcoreapp3.1\SubmarineMinefield.runtimeconfig.dev.json
+C:\Users\16627\source\repos\SubmarineMinefield\SubmarineMinefield\bin\Debug\netcoreapp3.1\SubmarineMinefield.dll
+C:\Users\16627\source\repos\SubmarineMinefield\SubmarineMinefield\bin\Debug\netcoreapp3.1\SubmarineMinefield.pdb
+C:\Users\16627\source\repos\SubmarineMinefield\SubmarineMinefield\obj\Debug\netcoreapp3.1\SubmarineMinefield.csprojAssemblyReference.cache
+C:\Users\16627\source\repos\SubmarineMinefield\SubmarineMinefield\obj\Debug\netcoreapp3.1\SubmarineMinefield.AssemblyInfoInputs.cache
+C:\Users\16627\source\repos\SubmarineMinefield\SubmarineMinefield\obj\Debug\netcoreapp3.1\SubmarineMinefield.AssemblyInfo.cs
+C:\Users\16627\source\repos\SubmarineMinefield\SubmarineMinefield\obj\Debug\netcoreapp3.1\SubmarineMinefield.csproj.CoreCompileInputs.cache
+C:\Users\16627\source\repos\SubmarineMinefield\SubmarineMinefield\obj\Debug\netcoreapp3.1\SubmarineMinefield.dll
+C:\Users\16627\source\repos\SubmarineMinefield\SubmarineMinefield\obj\Debug\netcoreapp3.1\SubmarineMinefield.pdb
+C:\Users\16627\source\repos\SubmarineMinefield\SubmarineMinefield\obj\Debug\netcoreapp3.1\SubmarineMinefield.genruntimeconfig.cache
